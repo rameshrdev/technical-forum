@@ -1,2 +1,6 @@
 #Ignore folder name 'target'
 target/
+#Ignore folder name 'e2e'
+e2e/
+#Ignore folder name 'node_modules'
+node_modules/
